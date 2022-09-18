@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Nlw Esports" title="NLW Esports" width="350" src="images/Logo.png" />
+  <img alt="Nlw Esports" title="NLW Esports" width="200" src="images/Logo.png" />
 </h1>
 
 ## 💻 Tecnologias Utilizadas nesse Projeto
